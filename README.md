@@ -34,7 +34,6 @@ Rahi Hair & beauty is a small, local business in the heart of london. who look a
   - [How to deploy](#how-to-deploy)
 - [Testing](#testing)
 
-
 ---
 
 ## User Experience (UX)
@@ -231,7 +230,7 @@ The footer remains the same throughout the design. It contains social media link
 
 ### **full screen view **
 
-![screenshot of Rahi Hair and Beauty website on desktop](/assetes/img/screenshot-full-1.jpg)
+![screenshot of Rahi Hair and Beauty website on desktop](/assets/img/screenshot-full-1.jpg)
 
 ## Technologies Used
 
