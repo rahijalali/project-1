@@ -276,7 +276,7 @@ GitHub was used to deploy the website. These were the steps taken to acheive thi
 6. Select 'root' from the drop-down folder menu
 7. Click 'Save' and after a few moments the project will have been made live and a link is visible at the top of the page
 
-##testing
+## Testing
 
 ### **Initial testing plan**
 
@@ -293,3 +293,12 @@ I had planned for this site to be accessible and legible on all screen sizes. Th
 5. iPhone 11/13
 
 6. Samsung Galaxy s10
+
+### **Testing**
+
+Testing took place throughout the entire build using Dev Tools on Chrome and on the above real-world devices. The browsers used were:
+
+- Chrome
+- Firefox
+- Edge
+- Safari
