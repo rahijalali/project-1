@@ -121,16 +121,15 @@ A large portion of their clients are young women age 20 to 40 who are looking fo
 ### Wireframes
 
 <details open>
-
 <summary>Wireframe - Home Desktop</summary>
 
 ![home wireframe-desktop](/assets/images/home-page.jpg)
 
 </details> 
 <details >
-<summary>Wireframe - our service Desktop</summary>
+<summary>Wireframe - service Desktop</summary>
 
-![servis wireframe-desktop](/assets/images/service-page.jpg)
+![service wireframe-desktop](/assets/images/service-page.jpg)
 
 </details> 
 <details>
