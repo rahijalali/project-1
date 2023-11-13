@@ -35,12 +35,7 @@ Rahi Hair & beauty is a small, local business in the heart of london. who look a
 - [Deployment](#deployment)
   - [How to deploy](#how-to-deploy)
 - [Testing](#testing)
-  - [HTML Validation using W3C Validation](#html-validation-using-w3c-validation)
-  - [CSS Validation using W3C Validation](#css-validation-using-w3c-validation)
-  - [Lighthouse scores via Chrome Developer Tools](#lighthouse-scores-via-chrome-developer-tools)
-  - [Bugs & Fixes](#bugs--fixes)
-  - [Unsolved Bugs](#unsolved-bugs)
-- [Credits](#credits)
+
 
 ---
 
