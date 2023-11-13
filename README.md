@@ -133,9 +133,9 @@ A large portion of their clients are young women age 20 to 40 who are looking fo
 
 </details> 
 <details>
-<summary>Wireframe - booking page Desktop </summary>
+<summary>Wireframe - book page Desktop </summary>
 
-![booking wireframe-desktop](/assets/img/booking-page.JPG)
+![book wireframe-desktop](/assets/img/book-page.JPG)
 
 </details>    
 <details>
