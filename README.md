@@ -237,9 +237,9 @@ The footer remains the same throughout the design. It contains social media link
 
 ![screenshot of Rahi Hair and Beauty website on desktop ](/assets/img/Screenshot-pixel7-1.jpg)
 
-### **full screen **
+### **full screen view **
 
-![screenshot of Rahi Hair and Beauty website on desktop] (/assets/img/Screenshot-full1.jpg)
+![screenshot of Rahi Hair and Beauty website on desktop](/assetes/img/screenshot-full-1.jpg)
 
 ## Technologies Used
 
