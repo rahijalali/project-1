@@ -121,21 +121,23 @@ A large portion of their clients are young women age 20 to 40 who are looking fo
 ### Wireframes
 
 <details open>
+
 <summary>Wireframe - Home</summary>
 
-![home wireframe-desktop] (/assets/images/home-page.jpg)
+![home wireframe-desktop](/assets/images/home-page.jpg)
 
 </details> 
 <details >
 <summary>Wireframe - our service</summary>
+
 ![servis wireframe-desktop](/assets/images/service-page.jpg)
 
 </details> 
 <details>
+<summary>Wireframe - booking page </summary>
 
 ![booking wireframe-desktop](/assets/img/booking-page.JPG)
 
-<summary>Wireframe - booking page </summary>
 </details>    
 <details>
 <summary>Wireframe - Contact page Desktop</summary>
@@ -231,18 +233,14 @@ The footer remains the same throughout the design. It contains social media link
 ### **Desktop, Tablet & Mobile Differences**
 
 ![screenshot of Rahi Hair and Beauty website on desktop](/assets/img/Screenshot-ipad-1.jpg)
-<br/>
-(/assets/img/Screenshot-ipad-2.jpg)
 
 ### **Mobile View (pixel 7)**
 
-![screenshot of Rahi Hair and Beauty website on desktop ](/assets/img/Screenshot-pixel7-1.jpg)<br/>
-(/assets/img/Screenshot-pixel7-2.jpg)
+![screenshot of Rahi Hair and Beauty website on desktop ](/assets/img/Screenshot-pixel7-1.jpg)
 
 ### **full screen **
 
-![screenshot of Rahi Hair and Beauty website on desktop] (/assets/img/Screenshot-full1.jpg)<br/>
-(/assets/img/Screenshot-full2.jpg)
+![screenshot of Rahi Hair and Beauty website on desktop] (/assets/img/Screenshot-full1.jpg)
 
 ## Technologies Used
 
