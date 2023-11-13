@@ -275,3 +275,5 @@ GitHub was used to deploy the website. These were the steps taken to acheive thi
 5. In the Source section, choose 'main' from the drop-down, select branch menu
 6. Select 'root' from the drop-down folder menu
 7. Click 'Save' and after a few moments the project will have been made live and a link is visible at the top of the page
+
+[def]: /assets/img/booking-page.JPG
