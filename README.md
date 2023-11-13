@@ -122,19 +122,19 @@ A large portion of their clients are young women age 20 to 40 who are looking fo
 
 <details open>
 
-<summary>Wireframe - Home</summary>
+<summary>Wireframe - Home Desktop</summary>
 
 ![home wireframe-desktop](/assets/images/home-page.jpg)
 
 </details> 
 <details >
-<summary>Wireframe - our service</summary>
+<summary>Wireframe - our service Desktop</summary>
 
 ![servis wireframe-desktop](/assets/images/service-page.jpg)
 
 </details> 
 <details>
-<summary>Wireframe - booking page </summary>
+<summary>Wireframe - booking page Desktop </summary>
 
 ![booking wireframe-desktop](/assets/img/booking-page.JPG)
 
