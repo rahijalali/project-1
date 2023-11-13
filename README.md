@@ -17,7 +17,6 @@ Rahi Hair & beauty is a small, local business in the heart of london. who look a
 - [Creation process (Strategy -> Surface)](#creation-process)
   - [Wireframes](#wireframes)
 - [Design](#design)
-  - [Colour Scheme](#color-scheme)
   - [Typography](#typography)
   - [Imagery](#imagery)
 - [Page Features](#page-features)
