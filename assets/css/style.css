@@ -1,10 +1,10 @@
 /* Google fonts import */
-@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&family=Raleway:wght@300&display=swap");
 @import './bootstrap.min.css';
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
-  padding: 0;
+  padding:0;
   margin: 0;
   box-sizing: border-box;
 }
@@ -16,7 +16,7 @@ body {
   flex-direction: column;
   /* Generic project styles */
   color: #ffffff;
-  font-family: "Lato", sans-serif;
+  font-family: "Raleway", sans-serif;
   margin-left: auto;
   margin-right: auto;
   background-color: #252525;
@@ -78,6 +78,7 @@ nav {
   display: none;
   top: 100%;
 }
+nav
 /* our service*/
 .service > p {
   align-self: center;
@@ -104,12 +105,130 @@ main {
   text-align: center;
 }
 
+#welcome > h2 {
+  padding: 0 ;
+}
+
+
+/* Introduction in index.html */
+
+#intro {
+  display: inline-block;
+  max-width: fit-content;
+  font-size: larger;
+  font-weight: 300;
+  padding:  0 20px;
+}
+
 /* Hero section */
 #hero {
   height: 600px;
   background: url("../img/front-page.jpg") no-repeat center center/cover;
   position: relative;
 }
+/* our service css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color:white;
+}
+
+#ourservice-page > * {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+#ourservice-page {
+  background-color: rgb(1, 1, 1);
+}
+
+.service-title {
+  text-transform: uppercase;
+      margin-top: 70px
+}
+
+.hair-images {
+  width: 15rem;
+  border-radius: 5rem;
+  margin-bottom: 2rem;
+}
+
+.service {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  background-color: rgb(11, 11, 11);
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+/*Meadia Queries for small devices 578*/
+@media screen and (min-width: 578px) {
+  .service {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+  }
+  .service p {
+    width: 15rem;
+    font-size: 1.1;
+  }
+
+  .hair-images {
+    width: 16em;
+    border-radius: 5rem;
+    margin-bottom: 2rem;
+  }
+}
+
+/*Meadia Queries for tablet 768*/
+@media screen and (min-width: 768px) {
+  .service {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+  }
+  .service p {
+    width: 20rem;
+    font-size: 1.2rem;
+  }
+
+  .hair-images {
+    width: 18em;
+    border-radius: 5rem;
+    margin-bottom: 2rem;
+  }
+}
+
+/*Meadia Queries for desktop 1200*/
+@media screen and (min-width: 1200px) {
+  .service {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+  }
+  .service p {
+    width: 25rem;
+    font-size: 1.2rem;
+  }
+
+  .hair-images {
+    width: 22em;
+    border-radius: 5rem;
+    margin-bottom: 2rem;
+  }
+}
+
 
 /* Contact us slide */
 #contact-us-slide {
@@ -187,7 +306,7 @@ main {
   color: #fafafa;
 }
 
-/* Gallery page */
+/* Gallery  */
 #photos img {
   width: 100%;
   line-height: 1em;
