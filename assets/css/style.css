@@ -1,10 +1,10 @@
 /* Google fonts import */
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&family=Raleway:wght@300&display=swap");
-@import './bootstrap.min.css';
+@import "./bootstrap.min.css";
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
-  padding:0;
+  padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
@@ -19,7 +19,7 @@ body {
   font-family: "Raleway", sans-serif;
   margin-left: auto;
   margin-right: auto;
-  background-color: #252525;
+  background-color: #000000;
 }
 section {
   margin-bottom: 40px;
@@ -106,9 +106,8 @@ main {
 }
 
 #welcome > h2 {
-  padding: 0 ;
+  padding: 0;
 }
-
 
 /* Introduction in index.html */
 
@@ -117,7 +116,7 @@ main {
   max-width: fit-content;
   font-size: larger;
   font-weight: 300;
-  padding:  0 20px;
+  padding: 0 20px;
 }
 
 /* Hero section */
@@ -126,15 +125,16 @@ main {
   background: url("../img/front-page.jpg") no-repeat center center/cover;
   position: relative;
 }
-/* our service css */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+#booking-hero {
+  height: 90vh;
+  background: url("../img/slide-2.jpg") no-repeat center center/cover;
+  position: relative;
+  margin-bottom: 5px;
 }
+/* our service css */
 
 header {
-  background-color:white;
+  background-color: white;
 }
 
 #ourservice-page > * {
@@ -150,7 +150,7 @@ header {
 
 .service-title {
   text-transform: uppercase;
-      margin-top: 70px
+  margin-top: 70px;
 }
 
 .hair-images {
@@ -164,7 +164,6 @@ header {
   flex-direction: column;
   text-align: center;
   justify-content: center;
-  background-color: rgb(11, 11, 11);
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
@@ -229,14 +228,20 @@ header {
   }
 }
 
-
 /* Contact us slide */
+
+#signup-form {
+  background-color: rgba(60, 60, 60, 0.6);
+}
 #contact-us-slide {
-  height: 600px;
+  height: 60vh;
   background: url("../img/slide-3.jpg") no-repeat center center/cover;
   position: relative;
   text-align: left;
   font-size: 1rem;
+}
+#google-map {
+  margin-bottom: 5px;
 }
 #cover-text {
   /* Final rgba value sets the opacity so it is semi-transparent */
@@ -272,46 +277,11 @@ header {
   margin: 5px 0;
 }
 
-
-
 #benefits-image {
   display: flex;
   align-items: center;
   justify-content: center;
 }
-
-/* Meetup Times section */
-#times {
-  background: url("../images/dublin-city.webp") no-repeat center/cover;
-  /* Handles responsivity without the need for a media query */
-  display: flex;
-  flex-wrap: wrap;
-}
-
-#times div {
-  color: #fafafa;
-  background-color: rgba(0, 0, 0, 0.6);
-  padding: 15px;
-  text-align: center;
-  /* This will not wrap on screens of less than 400px wide.
-    Each div will expand to fill the available space on its row */
-  flex-basis: 200px;
-  flex-grow: 1;
-  /* Creates a grid of meetup time divs over the background image */
-  border: 2px solid white;
-}
-
-#times h3 {
-  /* Override the heading colour set in general styles */
-  color: #fafafa;
-}
-
-/* Gallery  */
-#photos img {
-  width: 100%;
-  line-height: 1em;
-}
-
 #photos {
   line-height: 0;
 }
@@ -347,17 +317,26 @@ header {
   height: 400px;
 }
 /* working hours and contact us */
-.working-hours { 
+.working-hours {
   flex-direction: column;
-  display: inline-block; 
-  margin: 10px"
-
+  display: inline-block;
+  margin: 10px;
 }
-/* Media query: large or landscape phones (576px and up) */
-@media screen and (min-width: 576px) {
+/* Media query: large or landscape phones (375px and up) */
+@media screen and (min-width: 375px) {
   #photos {
     column-count: 2;
     column-gap: 0;
+  }
+  #signup-form {
+    color: #ffffff;
+    background-color: rgba(60, 60, 60, 0.6);
+    padding: 30px;
+  }
+
+  #signup-form > h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
   }
 }
 
@@ -405,7 +384,6 @@ header {
     flex-direction: column;
   }
   #signup {
-    background-image: url("../images/signup-image.webp");
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
@@ -448,26 +426,26 @@ header {
     background-color: #454b1b;
     color: #fafafa;
   }
-   #signup {
-      background-position: center;
-      position: relative;
-    }
+  #signup {
+    background-position: center;
+    position: relative;
+  }
 
-    #signup-form {
-      max-width: 400px;
-      position: absolute;
-      left: 10%;
-      top: 150px;
-    }
+  #signup-form {
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    top: 150px;
+  }
 
-    .text-input:hover {
-      border-color: #f16c6b;
-    }
+  .text-input:hover {
+    border-color: #f16c6b;
+  }
 
-    .join-button:hover {
-      background-color: #fafafa;
-      color: #454b1b;
-    }
+  .join-button:hover {
+    background-color: #fafafa;
+    color: #454b1b;
+  }
 
   /* Hero */
   #cover-text {
