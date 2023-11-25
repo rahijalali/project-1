@@ -145,9 +145,7 @@ A large portion of their clients are  women any ages who are looking for the bes
 
 ### **Typography**
 
-[Google Fonts](https://fonts.google.com/) was used to import the fonts 'playfair' and 'Lato'. I felt the clear, soft lettering suited the intended aesthetic of the website. I had intentions to use Lato for my smaller bodies of text, however, I chose to stick with playfair to keep the font consistent.
-
-![google Fonts playfair](/docs/fonts%20-%20Edited.png)
+[Google Fonts](https://fonts.google.com/) was used to import the fonts 'playfair' and 'Lato'. I felt the clear, soft lettering suited the intended aesthetic of the website. I had intentions to use Lato for my smaller bodies of text, however.
 
 ### **Imagery**
 
