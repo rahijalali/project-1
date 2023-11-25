@@ -2,7 +2,7 @@
 
 [View live project here on GitHub](https://github.com/rahijalali/project-1)
 
-Rahi Hair & beauty is a small, local business in the heart of london. who look after your skin in our lovley, warm salon surrounded with freindly team who can give you the best advice for taking care of your hair.
+Rahi Hair & beauty is a small, local business in the heart of london. who look after your hair in our lovley, warm salon surrounded with freindly team who can give you the best advice for taking care of your hair.
 
 <br>  
   
