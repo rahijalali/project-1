@@ -2,7 +2,7 @@
 
 [View live project here on GitHub](https://github.com/rahijalali/project-1)
 
-Rahi Hair & beauty is a small, local business in the heart of london. who look after your skin in our lovley, warm salon surrounded with freindly team who can give you the best advice for taking care of your hair.
+Rahi Hair & beauty is a small, local business in the heart of london. who look after your hair in our lovley, warm salon surrounded with freindly team who can give you the best advice for taking care of your hair.
 
 <br>  
   
@@ -84,12 +84,12 @@ which cannot repair deep damage to hair unless by cutting the hair.
 
 ### **2. Scope**
 
-A large portion of their clients are young women age 20 to 40 who are looking for the best treatments and they want to prevent of any kind of damage and wrinkle to their skin, and they want to spend an hour calmly in a quite place, feeling relax.
+A large portion of their clients are  women any ages who are looking for the best treatments and they want to prevent of any kind of damage on hair, and they want to spend an hour calmly in a quite place, feeling relax.
 
 - The site is to contain only essential information, presented in a similar fashion and layout.
 - Text must be clear and legible on any sized device to allow the user instant access to the menu, location, and opening times.
 -
-- For future development, the testimonials page has focused on before and after the treatment so clients can introduce lunaria to their friends.
+- For future development, the testimonials page has focused on before and after the treatment so clients can introduce Rahi's hair and beauty to their friends.
 
 ### **3. Structural**
 
@@ -103,11 +103,9 @@ A large portion of their clients are young women age 20 to 40 who are looking fo
 
 - An underline feature identifying the current page and also a hover on the menu.
 - A large, clear image dominates the landing page with a close-up view of a woman feeling fresh and fabolouse.
-- right side of the image, clickable button situated on the image which takes you to the contact page and testimonials page. First-time visitors have access to the menu with one easy click.
-
 - The page ends with the footer, where the social media has placed.
 
-- For the contact us page, the navigation and footer remain as before. big size of eucalyptus leaf behine the form is intoducing the freshnes of the clinic to the client. An optional form for visitors who wish to connect with the business with an interactive Google Map with the business location pinned. There is an option to enlarge the map in a new window and find directions.
+- For the contact us page, the navigation and footer remain as before. An optional form for visitors who wish to connect with the business with an interactive Google Map with the business location pinned. There is an option to enlarge the map in a new window and find directions.
 
 ### Wireframes
 
@@ -164,8 +162,6 @@ https://www.google.co.uk/search?sca_esv=581894545&sxsrf=AM9HkKkCElIyi4mve7KcNJ-f
 ### **Navbar**
 
 <details open>
-<summary></summary>
-
 ![screenshot of navbar](/assets/img/navbar.jpg)
 
 </details>
