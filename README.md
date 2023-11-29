@@ -1,4 +1,4 @@
-# Rahi hair & BEAUTY
+# Rahi Hair & BEAUTY
 
 [View live project here on GitHub](https://github.com/rahijalali/project-1)
 
