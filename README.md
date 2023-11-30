@@ -84,7 +84,7 @@ which cannot repair deep damage to hair unless by cutting the hair.
 
 ### **2. Scope**
 
-A large portion of their clients are  women any ages who are looking for the best treatments and they want to prevent of any kind of damage on hair, and they want to spend an hour calmly in a quite place, feeling relax.
+A large portion of their clients are women any ages who are looking for the best treatments and they want to prevent of any kind of damage on hair, and they want to spend an hour calmly in a quite place, feeling relax.
 
 - The site is to contain only essential information, presented in a similar fashion and layout.
 - Text must be clear and legible on any sized device to allow the user instant access to the menu, location, and opening times.
@@ -262,6 +262,15 @@ GitHub was used to deploy the website. These were the steps taken to acheive thi
 7. Click 'Save' and after a few moments the project will have been made live and a link is visible at the top of the page
 
 ## Testing
+
+### **validator test**
+
+The website was tested using the W3C Validator. This was done to check for any errors in the HTML and CSS code.
+
+### **lighthouse test**
+
+The website was tested using the Google Lighthouse. This was done to check for any errors in the HTML and CSS code.
+![snip from the accessibility](/assets/img/accessibility.jpg)
 
 ### **Initial testing plan**
 
