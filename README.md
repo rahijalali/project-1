@@ -265,11 +265,16 @@ GitHub was used to deploy the website. These were the steps taken to acheive thi
 
 ### **validator test**
 
-The website was tested using the W3C Validator. This was done to check for any errors in the HTML and CSS code.
+The website was tested using the W3C Validator.
+This was done to check for any errors in the HTML and CSS code.
+HTML: ![snip from the W3C](/assets/img/W3c-HTML-Validation.jpg)
+CSS: ![snip from the W3C](/assets/img/W3c-CSS-Validation.jpg)
 
 ### **lighthouse test**
 
-The website was tested using the Google Lighthouse. This was done to check for any errors in the HTML and CSS code.
+The website was tested using the Google Lighthouse.
+This was done to check for any errors in the HTML and CSS code.
+
 ![snip from the accessibility](/assets/img/accessibility.jpg)
 
 ### **Initial testing plan**
